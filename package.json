@@ -1,0 +1,24 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "Nodejs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna0102/nodejsexample.git"
+  },
+  "keywords": [
+    "nodejs",
+    "example",
+    "javascript"
+  ],
+  "author": "krishna0102",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishna0102/nodejsexample/issues"
+  },
+  "homepage": "https://github.com/krishna0102/nodejsexample#readme"
+}
