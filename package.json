@@ -12,7 +12,7 @@
     "url": "git+https://github.com/krishna0102/nodejsexample.git"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.17.3"
   },
   "keywords": [
     "nodejs",
